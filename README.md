@@ -1,10 +1,10 @@
 
-# Geng Sun, Associate Professor, 孙庚
+
+![image](https://sungeng207.github.io/Geng-Sun.png)# Geng Sun, Associate Professor, 孙庚
 ## College of Computer Science and Technology, Jilin University, 吉林大学计算机科学与技术学院.
 ### Address: Changchun 130012, China, 中国长春
 ### Email:	sungeng@jlu.edu.cn
 
-![image](https://sungeng207.github.io/Geng-Sun.png)
 
 ## 所在学科专业：
 计算机应用技术
