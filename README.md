@@ -4,6 +4,7 @@
 ### Address: Changchun 130012, China, 中国长春
 ### Email:	sungeng@jlu.edu.cn
 
+![image](https://github.com/sungeng207/sungeng207.github.io/blob/main/Geng-Sun.png)
 
 ## 所在学科专业：
 计算机应用技术
