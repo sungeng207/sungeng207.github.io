@@ -5,9 +5,6 @@
 ### Email:	sungeng@jlu.edu.cn
 
 ![image](https://sungeng207.github.io/Geng-Sun.png)
-哇呀呀呀
-
-
 
 ## 所在学科专业：
 计算机应用技术
