@@ -60,7 +60,7 @@
 
 ## 学术论文：
 
-近5年，以**第一作者和通信作者**身份共计发表高水学术论文**50篇**，其中SCI检索**32篇**（中国计算机学会推荐A类、B类及中科院1区、2区期刊论文**18篇**）、EI检索**18篇**（中国计算机学会推荐的高水平会议**5篇**），包括**IEEE Journal on Selected Areas in Communications、IEEE Transactions on Mobile Computing、IEEE Transactions on Antennas and Propagation、IEEE Internet of Things Journal、IEEE Communications Surveys and Tutorials, IEEE Communications Letters、IEEE INFOCOM、IEEE GLOBECOM、IEEE WCNC和IEEE VTC等**高水平期刊和学术会议。
+近5年，以**第一作者和通信作者**身份共计发表高水学术论文**50篇**，其中SCI检索**32篇**（中国计算机学会推荐A类、B类及中科院1区、2区期刊论文**18篇**）、EI检索**18篇**（中国计算机学会推荐的高水平会议**5篇**），包括**IEEE Journal on Selected Areas in Communications、IEEE Transactions on Mobile Computing、IEEE Transactions on Antennas and Propagation、IEEE Internet of Things Journal、IEEE Communications Surveys and Tutorials、IEEE Communications Letters、IEEE INFOCOM、IEEE GLOBECOM、IEEE WCNC和IEEE VTC等**高水平期刊和学术会议。
 
 代表性期刊论文：
 
