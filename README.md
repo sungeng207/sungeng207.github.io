@@ -64,7 +64,7 @@
 
 代表性期刊论文：
 
-[1] Zemin Sun, Yanheng Liu*, Jian Wang, Guofa Li, Carie Anil, Keqiang Li, Xinyu Guo, **Geng Sun***, Daxin Tian*, Dongpu, Cao, Applications of Game Theory in Vehicular Networks: A Survey, IEEE Communications Surveys and Tutorials, 2021. (IF=25.249) (SCI, 中科院1区)
+[1] Zemin Sun, Yanheng Liu, Jian Wang, Guofa Li, Carie Anil, Keqiang Li, Xinyu Guo, **Geng Sun***, Daxin Tian, Dongpu, Cao, Applications of Game Theory in Vehicular Networks: A Survey, IEEE Communications Surveys and Tutorials, 2021. (IF=25.249) (SCI, 中科院1区)
 
 [2] **Geng Sun**, Jiahui Li, Yanheng Liu, Shuang Liang*, Hui Kang*. Time and Energy Minimization Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Method, IEEE Journal on Selected Areas in Communications, 2021. (Early Access) (IF=11.42) (SCI, 中科院1区, 中国计算机学会推荐A类期刊)
 
