@@ -64,54 +64,54 @@
 
 代表性期刊论文：
 
-[1] Zemin Sun, Yanheng Liu*, Jian Wang, Guofa Li, Carie Anil, Keqiang Li, Xinyu Guo, **Geng Sun***, Daxin Tian*, Dongpu, Cao, Applications of Game Theory in Vehicular Networks: A Survey, IEEE Communications Surveys and Tutorials, 2021. (IF=25.249) *(SCI, 中科院1区)*
+[1] Zemin Sun, Yanheng Liu*, Jian Wang, Guofa Li, Carie Anil, Keqiang Li, Xinyu Guo, **Geng Sun***, Daxin Tian*, Dongpu, Cao, Applications of Game Theory in Vehicular Networks: A Survey, IEEE Communications Surveys and Tutorials, 2021. (IF=25.249) (SCI, 中科院1区)
 
-[2] **Geng Sun**, Jiahui Li, Yanheng Liu, Shuang Liang*, Hui Kang*. Time and Energy Minimization Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Method, IEEE Journal on Selected Areas in Communications, 2021. (Early Access) (IF=11.42) *(SCI, 中科院1区, 中国计算机学会推荐A类期刊)*
+[2] **Geng Sun**, Jiahui Li, Yanheng Liu, Shuang Liang*, Hui Kang*. Time and Energy Minimization Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Method, IEEE Journal on Selected Areas in Communications, 2021. (Early Access) (IF=11.42) (SCI, 中科院1区, 中国计算机学会推荐A类期刊)
 
-[3] **Geng Sun**, Yanheng Liu*, Zhaoyu Chen, Aimin Wang, Ying Zhang*, Daxin Tian, Victor C.M. Leung. Energy Efficient Collaborative Beamforming for Reducing Sidelobe in Wireless Sensor Networks, IEEE Transactions on Mobile Computing, 20(3): 965-982, 2021. (IF=5.112) *(SCI, 中科院1区, 中国计算机学会推荐A类期刊) *
+[3] **Geng Sun**, Yanheng Liu*, Zhaoyu Chen, Aimin Wang, Ying Zhang*, Daxin Tian, Victor C.M. Leung. Energy Efficient Collaborative Beamforming for Reducing Sidelobe in Wireless Sensor Networks, IEEE Transactions on Mobile Computing, 20(3): 965-982, 2021. (IF=5.112) (SCI, 中科院1区, 中国计算机学会推荐A类期刊)
 
-[4] **Geng Sun**, Xiaohui Zhao, Guojun Shen, Yanheng Liu*, Aimin Wang, Suhanya Jayaprakasam, Ying Zhang, Victor C.M. Leung. Improving performance of distributed collaborative beamforming in mobile wireless sensor networks: a multi-objective optimization method, IEEE Internet of Things Journal, 7(8): 6787-6801, 2020. (IF=9.515) *(SCI, 中科院1区)*
+[4] **Geng Sun**, Xiaohui Zhao, Guojun Shen, Yanheng Liu*, Aimin Wang, Suhanya Jayaprakasam, Ying Zhang, Victor C.M. Leung. Improving performance of distributed collaborative beamforming in mobile wireless sensor networks: a multi-objective optimization method, IEEE Internet of Things Journal, 7(8): 6787-6801, 2020. (IF=9.515) (SCI, 中科院1区)
 
-[5] **Geng Sun**, Yanheng Liu, Zhaoyu Chen, Shuang Liang, Aimin Wang*, Ying Zhang*. Radiation Beam Pattern Synthesis of Concentric Circular Antenna Arrays Using Hybrid Approach Based on Cuckoo Search,  IEEE Transactions on Antennas and Propagation 66.9 (2018): 4563-4576. (IF=4.371) *(SCI, 中科院1区)*
+[5] **Geng Sun**, Yanheng Liu, Zhaoyu Chen, Shuang Liang, Aimin Wang*, Ying Zhang*. Radiation Beam Pattern Synthesis of Concentric Circular Antenna Arrays Using Hybrid Approach Based on Cuckoo Search,  IEEE Transactions on Antennas and Propagation 66.9 (2018): 4563-4576. (IF=4.371) (SCI, 中科院1区)
 
-[6] Shuang Liang, Zhiyi Fang, **Geng Sun***, Jin Zhang, A physical layer security approach based on optical beamforming for indoor visible light communication, IEEE Communications Letters, 24(10): 2109-2113, 2020. (IF= 3.419) *(SCI, 中科院2区)*
+[6] Shuang Liang, Zhiyi Fang, **Geng Sun***, Jin Zhang, A physical layer security approach based on optical beamforming for indoor visible light communication, IEEE Communications Letters, 24(10): 2109-2113, 2020. (IF= 3.419) (SCI, 中科院2区)
 
-[7] **Geng Sun**, Yanheng Liu, Ming Yang, Aimin Wang*, Shuang Liang, Ying Zhang*. Coverage Optimization for VLC in Smart Home Based on Improved Cuckoo Search Algorithm, Computer Networks, 116 (2017): 63-78. (IF=3.111) *(SCI, 中国计算机学会推荐B类期刊)*
+[7] **Geng Sun**, Yanheng Liu, Ming Yang, Aimin Wang*, Shuang Liang, Ying Zhang*. Coverage Optimization for VLC in Smart Home Based on Improved Cuckoo Search Algorithm, Computer Networks, 116 (2017): 63-78. (IF=3.111) (SCI, 中国计算机学会推荐B类期刊)
 
-[8] Boyu Li, Yanheng Liu, Minghai Wang, **Geng Sun***, Bin Li, Local Anatomy for Personalized Privacy Protection. International Journal of Information and Computer Security, Vol. 15, Nos. 2/3, 2021. *(中国计算机学会推荐C类期刊)*
+[8] Boyu Li, Yanheng Liu, Minghai Wang, **Geng Sun***, Bin Li, Local Anatomy for Personalized Privacy Protection. International Journal of Information and Computer Security, Vol. 15, Nos. 2/3, 2021. (中国计算机学会推荐C类期刊)
 
-[9] **Geng Sun**, Yanheng Liu, Han Li, Jionghui Li, Aimin Wang*, Ying Zhang*. Power-pattern Synthesis for Energy Beamforming of Wireless Power Transmission, Neural Computing and Applications, 30.7 (2018): 2327-2342. (IF=4.774) *(SCI, 中科院2区, 中国计算机学会推荐C类期刊)*
+[9] **Geng Sun**, Yanheng Liu, Han Li, Jionghui Li, Aimin Wang*, Ying Zhang*. Power-pattern Synthesis for Energy Beamforming of Wireless Power Transmission, Neural Computing and Applications, 30.7 (2018): 2327-2342. (IF=4.774) (SCI, 中科院2区, 中国计算机学会推荐C类期刊)
 
-[10] Shuang Liang, Zhiyi Fang, **Geng Sun***, Yanheng Liu, Guannan Qu, Suhanya Jayaprakasam, Ying Zhang. A joint optimization approach for distributed collaborative beamforming in mobile wireless sensor networks, Ad Hoc Networks (2020): 102216. (IF= 3.643) *(SCI, 中科院2区, 中国计算机学会推荐C类期刊)*
+[10] Shuang Liang, Zhiyi Fang, **Geng Sun***, Yanheng Liu, Guannan Qu, Suhanya Jayaprakasam, Ying Zhang. A joint optimization approach for distributed collaborative beamforming in mobile wireless sensor networks, Ad Hoc Networks (2020): 102216. (IF= 3.643) (SCI, 中科院2区, 中国计算机学会推荐C类期刊)
 
-[11] **Geng Sun**, Yanheng Liu, Aimin Wang*, Jing Zhang, Xu Zhou. Node Selection Optimization for Collaborative Beamforming in Wireless Sensor Networks, Ad Hoc Networks, 2016.02, 37(2): 389-403. (IF= 3.643) *(SCI, 中科院2区, 中国计算机学会推荐C类期刊)*
+[11] **Geng Sun**, Yanheng Liu, Aimin Wang*, Jing Zhang, Xu Zhou. Node Selection Optimization for Collaborative Beamforming in Wireless Sensor Networks, Ad Hoc Networks, 2016.02, 37(2): 389-403. (IF= 3.643) (SCI, 中科院2区, 中国计算机学会推荐C类期刊)
 
 
 代表性会议论文：
 
-[1] Jiahui Li, Hui Kang, **Geng Sun***, Shuang Liang, Yanheng Liu, Ying Zhang, Physical Layer Secure Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Approach, IEEE International Conference on Computer Communications (IEEE INFOCOM 2021). *(中国计算机学会推荐 A类会议)*
+[1] Jiahui Li, Hui Kang, **Geng Sun***, Shuang Liang, Yanheng Liu, Ying Zhang, Physical Layer Secure Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Approach, IEEE International Conference on Computer Communications (IEEE INFOCOM 2021). (中国计算机学会推荐 A类会议)
 
-[2] Aimin Wang, Yuxin Wang, **Geng Sun***, Jiahui Li, Shuang Liang, Yanheng Liu, Uplink Data Transmission Based on Collaborative Beamforming in UAV-assisted MWSNs. IEEE Global Communications Conference (IEEE GLOBECOM 2021). (Accepted) *(中国计算机学会推荐 C类会议)*
+[2] Aimin Wang, Yuxin Wang, **Geng Sun***, Jiahui Li, Shuang Liang, Yanheng Liu, Uplink Data Transmission Based on Collaborative Beamforming in UAV-assisted MWSNs. IEEE Global Communications Conference (IEEE GLOBECOM 2021). (Accepted) (中国计算机学会推荐 C类会议)
 
-[3] Yanheng Liu, Hongyang Pan, **Geng Sun***, Aimin Wang, Scheduling Optimization of Charging UAV in Wireless Rechargeable Sensor Networks. IEEE symposium on Computers and Communications (IEEE ISCC 2021). (Accepted) *(中国计算机学会推荐 C类会议)*
+[3] Yanheng Liu, Hongyang Pan, **Geng Sun***, Aimin Wang, Scheduling Optimization of Charging UAV in Wireless Rechargeable Sensor Networks. IEEE symposium on Computers and Communications (IEEE ISCC 2021). (Accepted) (中国计算机学会推荐 C类会议)
 
-[4] Yanheng Liu, Tingting Zheng, **Geng Sun***, Jing Zhang, Jiahui Li, A Joint Optimization Approach for UAV-Enabled Collaborative Beamforming. IEEE symposium on Computers and Communications (IEEE ISCC 2021). (Accepted) *(中国计算机学会推荐 C类会议)*
+[4] Yanheng Liu, Tingting Zheng, **Geng Sun***, Jing Zhang, Jiahui Li, A Joint Optimization Approach for UAV-Enabled Collaborative Beamforming. IEEE symposium on Computers and Communications (IEEE ISCC 2021). (Accepted) (中国计算机学会推荐 C类会议)
 
-[5] Songyang Li, Aimin Wang, **Geng Sun***, Lingling Liu, Improving charging performance for wireless rechargeable sensor networks based on charging UAVs: a joint optimization approach, IEEE symposium on Computers and Communications (IEEE ISCC 2020). *(中国计算机学会推荐 C类会议)*
+[5] Songyang Li, Aimin Wang, **Geng Sun***, Lingling Liu, Improving charging performance for wireless rechargeable sensor networks based on charging UAVs: a joint optimization approach, IEEE symposium on Computers and Communications (IEEE ISCC 2020). (中国计算机学会推荐 C类会议)
 
-[6] **Geng Sun**, Yanheng Liu, Guojun Shen, Aimin Wang*, Ying Zhang*, Victor C.M. Leung. Multi-objective optimization for distributed collaborative beamforming in mobile wireless sensor networks. IEEE symposium on Computers and Communications (IEEE ISCC 2018). *(中国计算机学会推荐C类会议)*
+[6] **Geng Sun**, Yanheng Liu, Guojun Shen, Aimin Wang*, Ying Zhang*, Victor C.M. Leung. Multi-objective optimization for distributed collaborative beamforming in mobile wireless sensor networks. IEEE symposium on Computers and Communications (IEEE ISCC 2018). (中国计算机学会推荐C类会议)
 
-[7] **Geng Sun**, Yanheng Liu, Zhaoyu Chen, Ying Zhang, Aimin Wang, Shuang Liang. Thinning of Concentric Circular Antenna Arrays Using Improved Discrete Cuckoo Search Algorithm, IEEE Wireless Communications and Networking Conference (IEEE WCNC 2017). *(中国计算机学会推荐C类会议)*
+[7] **Geng Sun**, Yanheng Liu, Zhaoyu Chen, Ying Zhang, Aimin Wang, Shuang Liang. Thinning of Concentric Circular Antenna Arrays Using Improved Discrete Cuckoo Search Algorithm, IEEE Wireless Communications and Networking Conference (IEEE WCNC 2017). (中国计算机学会推荐C类会议)
 
-[8] **Geng Sun**, Yanheng Liu, Meng Yang, Aimin Wang, Ying Zhang. Charging nodes deployment optimization in wireless rechargeable sensor network. IEEE Global Communications Conference (IEEE GLOBECOM 2017). *(中国计算机学会推荐C类会议) *
+[8] **Geng Sun**, Yanheng Liu, Meng Yang, Aimin Wang, Ying Zhang. Charging nodes deployment optimization in wireless rechargeable sensor network. IEEE Global Communications Conference (IEEE GLOBECOM 2017). (中国计算机学会推荐C类会议)
 
-[9] **Geng Sun**, Xiaohui Zhao, Shuang Liang, Yanheng Liu, Xu Zhou*, Ying Zhang. A modified chicken swarm optimization algorithm for synthesizing linear, circular and random antenna arrays, 2019 IEEE 90th Vehicular Technology Conference (IEEE VTC-FALL 2019). *(EI)*
+[9] **Geng Sun**, Xiaohui Zhao, Shuang Liang, Yanheng Liu, Xu Zhou*, Ying Zhang. A modified chicken swarm optimization algorithm for synthesizing linear, circular and random antenna arrays, 2019 IEEE 90th Vehicular Technology Conference (IEEE VTC-FALL 2019). (EI)
 
-[10] **Geng Sun**, Xiaohui Zhao, Shuang Liang, Yanheng Liu*, Ying Zhang, Victor C.M. Leung. A hybrid optimization approach for suppressing sidelobe level and reducing transmission power in collaborative beamforming, 2019 IEEE 90th Vehicular Technology Conference (IEEE VTC-FALL 2019). *(EI) *
+[10] **Geng Sun**, Xiaohui Zhao, Shuang Liang, Yanheng Liu*, Ying Zhang, Victor C.M. Leung. A hybrid optimization approach for suppressing sidelobe level and reducing transmission power in collaborative beamforming, 2019 IEEE 90th Vehicular Technology Conference (IEEE VTC-FALL 2019). (EI)
 
-[11] Xu Zhou, **Geng Sun***, Yanheng Liu, and Qianao Ju. Detecting community structures based on an improved discrete bat algorithm, 2019 IEEE 90th Vehicular Technology Conference (IEEE VTC-FALL 2019). *(EI)*
+[11] Xu Zhou, **Geng Sun***, Yanheng Liu, and Qianao Ju. Detecting community structures based on an improved discrete bat algorithm, 2019 IEEE 90th Vehicular Technology Conference (IEEE VTC-FALL 2019). (EI)
 
-[12] **Geng Sun**, Yanheng Liu, Zhaoyu Chen, Shuang Liang, Qianao Ju and Ying Zhang. Sparse Synthesis of Concentric Circular Antenna Array via Multi-Objective Evolutionary Computation. 2018 IEEE 88th Vehicular Technology Conference (IEEE VTC-FALL 2018). *(EI)*
+[12] **Geng Sun**, Yanheng Liu, Zhaoyu Chen, Shuang Liang, Qianao Ju and Ying Zhang. Sparse Synthesis of Concentric Circular Antenna Array via Multi-Objective Evolutionary Computation. 2018 IEEE 88th Vehicular Technology Conference (IEEE VTC-FALL 2018). (EI)
 
 
 ## 获奖情况：
