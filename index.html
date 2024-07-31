@@ -50,10 +50,10 @@ function toggleNews() {
     additionalNewsItems.forEach(function(item) {
         if (item.style.display === 'none' || item.style.display === '') {
             item.style.display = 'list-item'; // 显示隐藏内容
-            button.textContent = '收起';
+            button.textContent = 'Collapse';
         } else {
             item.style.display = 'none'; // 隐藏内容
-            button.textContent = '展开';
+            button.textContent = 'More';
         }
     });
 }
@@ -160,7 +160,7 @@ function toggleNews() {
 
       <li><b><font size="" color="red">(01/2023)</font></b> Our paper "Multi-Objective Optimization Approaches for Physical Layer Secure Communications Based on Collaborative Beamforming in UAV Networks" is accepted by IEEE/ACM Transactions on Networking (CCF-A)!<br></li>
     </ul>
-<button class="expand-button" onclick="toggleNews()">展开</button>
+<button class="expand-button" onclick="toggleNews()">More</button>
 </div>
     
 
