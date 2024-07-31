@@ -8,6 +8,58 @@
     <title>Geng Sun, Jilin University</title>
 </head>
 
+<style>
+.news-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.additional-news {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: none; /* 初始隐藏 */
+}
+
+.news-toggle-container {
+    margin-top: 0px; /* 可以调整这个值以控制按钮和内容的间距 */
+}
+
+.expand-button {
+    cursor: pointer;
+    color: #1f82a9;
+    background: none;
+    border: none;
+    font-size: 20px;
+    text-decoration: underline;
+    display: block; /* 确保按钮占据一整行 */
+}
+
+.expand-button:hover {
+    color: #006699;
+}
+</style>
+
+
+<script>
+function toggleNews() {
+    var additionalNewsItems = document.querySelectorAll('.additional-news');
+    var button = document.querySelector('.expand-button');
+    
+    additionalNewsItems.forEach(function(item) {
+        if (item.style.display === 'none' || item.style.display === '') {
+            item.style.display = 'list-item'; // 显示隐藏内容
+            button.textContent = '收起';
+        } else {
+            item.style.display = 'none'; // 隐藏内容
+            button.textContent = '展开';
+        }
+    });
+}
+
+</script>
+
 <body>
     <!--<table id="tbInformation" width="100%">-->
     <table id="tbInformation" width="100%">
@@ -32,9 +84,33 @@
     </table>
     <hr>
 
-    <h3><font size="" color="red">NEWS：</font></h3>
-    <ul>
+    <h3><font size="" color="blue">News:</font>
+   </h3>
+    <ul class="news-list" style="text-align: justify;text-justify:inter-ideograph;" >
 
+	<li><b><font size="" color="red">(07/2024)</font></b> We will give a tutorial <a href="https://globecom2024.ieee-globecom.org/", target="_blank">"Empowering Networks with GAI: Fundamentals, Methodologies, and Applications"</a> in IEEE Global Communications Conference (GLOBECOM 2024), welcome to participate!<br></li>    
+
+	<li><b><font size="" color="red">(04/2024)</font></b> We will organize a Special Issue <a href="https://ieee-iotj.org/wp-content/uploads/2024/04/Integration_Generative_AI.pdf", target="_blank">"Integration of Generative AI and Internet of Things "</a> in IEEE Internet of Things Journal, welcome to submit papers!<br></li>      
+
+	<li><b><font size="" color="red">(04/2024)</font></b> We will organize a workshop <a href="https://iccc2024.ieee-iccc.org/workshop/empowering-wireless-communications-and-networking-generative-ai", target="_blank">"Empowering Wireless Communications and Networking with Generative AI"</a> in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to submit papers!<br></li>  
+
+      <li><b><font size="" color="red">(03/2024)</font></b> We will give a tutorial <a href="https://iccc2024.ieee-iccc.org/program/tutorials-0", target="_blank">"Generative Artificial Intelligence-empowered Networks: Optimization and Applications"</a> in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to participate!<br></li>  
+
+
+    <h3><font size="" color="blue">Recent Acceptances:</font>
+   </h3>
+
+   <li><b><font size="" color="red">(07/2024)</font></b> Our four papers are accepted by IEEE GLOBECOM 2024!<br></li> 
+
+      <li><b><font size="" color="red">(07/2024)</font></b> Our paper "Decentralized Navigation with Heterogeneous Federated Reinforcement Learning for UAV-enabled Mobile Edge Computing" is accepted by IEEE Transactions on Mobile Computing (CCF-A)!<br></li>  
+
+      <li><b><font size="" color="red">(07/2024)</font></b> Our paper "Enhancing IoT (Internet of Things) Feature Selection: A Two-Stage Approach via an Improved Whale Optimization Algorithm" is accepted by Expert Systems With Applications (中科院1区)!<br></li>  
+
+      <li><b><font size="" color="red">(06/2024)</font></b> Our paper "UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning" is accepted by IEEE Transactions on Mobile Computing (CCF-A)!<br></li>  
+
+      <li><b><font size="" color="red">(05/2024)</font></b> Our paper "Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks" is accepted by IEEE Transactions on Wireless Communications (中科院1区)!<br></li>  
+
+</ul>
       <!--<li><b><font size="" color="red">2022年博士研究生名额已满，硕士研究生招生基本要求：</font></b>
         <ul>
           <li>具备自我驱动（self-motivated）能力，目标明确</li>
@@ -44,28 +120,9 @@
         </ul>
         所在实验室基本情况及其他导师简介，请点击：<a href="https://mp.weixin.qq.com/s/-Pvvi0kQr600o_A_fSGSiQ">移动通信与网络系统教研室</a><br>
        </li>-->
-
-    <div style="text-align: justify;text-justify:inter-ideograph;">
-
-      <li><b><font size="" color="red">(07/2024)</font></b> Our four papers are accepted by IEEE GLOBECOM 2024!<br></li> 
-
-      <li><b><font size="" color="red">(07/2024)</font></b> Our paper "Decentralized Navigation with Heterogeneous Federated Reinforcement Learning for UAV-enabled Mobile Edge Computing" is accepted by IEEE Transactions on Mobile Computing (CCF-A)!<br></li>  
-
-      <li><b><font size="" color="red">(07/2024)</font></b> Our paper "Enhancing IoT (Internet of Things) Feature Selection: A Two-Stage Approach via an Improved Whale Optimization Algorithm" is accepted by Expert Systems With Applications (中科院1区)!<br></li>  
-
-      <li><b><font size="" color="red">(07/2024)</font></b> We will give a tutorial <a href="https://globecom2024.ieee-globecom.org/", target="_blank">"Empowering Networks with GAI: Fundamentals, Methodologies, and Applications"</a> in IEEE Global Communications Conference (GLOBECOM 2024), welcome to participate!<br></li>  
-
-      <li><b><font size="" color="red">(06/2024)</font></b> Our paper "UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning" is accepted by IEEE Transactions on Mobile Computing (CCF-A)!<br></li>  
-
-      <li><b><font size="" color="red">(05/2024)</font></b> Our paper "Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks" is accepted by IEEE Transactions on Wireless Communications (中科院1区)!<br></li>  
-
-      <li><b><font size="" color="red">(04/2024)</font></b> We will organize a Special Issue <a href="https://ieee-iotj.org/wp-content/uploads/2024/04/Integration_Generative_AI.pdf", target="_blank">"Integration of Generative AI and Internet of Things "</a> in IEEE Internet of Things Journal, welcome to submit papers!<br></li>  
-
+    <div class="news-toggle-container"  style="text-align: justify;text-justify:inter-ideograph;">     
+<ul class="additional-news">
       <li><b><font size="" color="red">(04/2024)</font></b> Our paper "An Accurate Beam Tracking Algorithm with Adaptive Beam Reconstruction via UAV-BSs for Mobile Users" is accepted by IEEE Transactions on Vehicular Technology!<br></li>  
-
-      <li><b><font size="" color="red">(04/2024)</font></b> We will organize a workshop <a href="https://iccc2024.ieee-iccc.org/workshop/empowering-wireless-communications-and-networking-generative-ai", target="_blank">"Empowering Wireless Communications and Networking with Generative AI"</a> in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to submit papers!<br></li>  
-
-      <li><b><font size="" color="red">(03/2024)</font></b> We will give a tutorial <a href="https://iccc2024.ieee-iccc.org/program/tutorials-0", target="_blank">"Generative Artificial Intelligence-empowered Networks: Optimization and Applications"</a> in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to participate!<br></li>  
 
       <li><b><font size="" color="red">(03/2024)</font></b> Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" is accepted by Applied Soft Computing (中科院1区)!<br></li>  
 
@@ -100,9 +157,9 @@
       <li><b><font size="" color="red">(01/2023)</font></b> Our paper "BARGAIN-MATCH: A Game Theoretical Approach for Resource Allocation and Task Offloading in Vehicular Edge Computing Networks" is accepted by IEEE Transactions on Mobile Computing (CCF-A)!<br></li>
 
       <li><b><font size="" color="red">(01/2023)</font></b> Our paper "Multi-Objective Optimization Approaches for Physical Layer Secure Communications Based on Collaborative Beamforming in UAV Networks" is accepted by IEEE/ACM Transactions on Networking (CCF-A)!<br></li>
-    </div>
     </ul>
-
+<button class="expand-button" onclick="toggleNews()">展开</button>
+</div>
     
 
     <hr>
